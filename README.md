@@ -1,6 +1,6 @@
 # choose-your-own-adventure
-Git and GitHub Collaboration
-Team members:
-Olga Durham
-Izekor Morgan
-Maxim Simonov
+## Git and GitHub Collaboration
+### Team members:
+- Olga Durham
+- Izekor Morgan
+- Maxim Simonov
