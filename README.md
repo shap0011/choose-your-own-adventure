@@ -1,4 +1,4 @@
-# choose-your-own-adventure
+# Choose Your Own Adventure
 ## Git and GitHub Collaboration
 ### Team members:
 - Olga Durham
