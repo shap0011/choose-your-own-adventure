@@ -8,5 +8,5 @@
 
 [**Choice by Olga (shap0011)**](./shap0011-next.md)
 
-
+[**Choice by Max (simo0174)**](./simo0174-story3.md)
 
