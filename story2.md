@@ -1,3 +1,5 @@
+## The story continues...
+
 <p> Startled by the sudden chirp, I froze beneath the car, my ears twitching as I tried to locate the source of the sound. Peering out from my hiding spot, I spotted a small bird perched on a nearby branch, its bright plumage catching the sunlight. </p>
 <p> For a moment, I felt torn between curiosity and caution. Instinct told me to stay hidden, to remain in the safety of my familiar surroundings. But the chirping bird beckoned to me, its melody stirring something deep within me—a longing for freedom, for exploration. </p>
 <p> With a hesitant glance back at the house, I made my decision. Today, I would embrace the unknown. Today, I would embark on my own adventure. </p>
